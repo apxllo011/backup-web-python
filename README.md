@@ -1,8 +1,7 @@
 # Script de backup e retenção com Python
 
 Atividade prática de automação de backup, feita para a disciplina do professor Denilson Bonatti. O script copia o conteúdo do servidor web para um arquivo compactado, gera o hash de verificação, apaga backups antigos e protege a pasta de destino com permissões restritas.
-
-Testado no SEU SISTEMA (exemplo: Fedora Linux 44 Server), com Python 3 e Apache (httpd) instalado.
+ Fedora Linux 44 Server, com Python 3 e Apache (httpd) instalado.
 
 ## O que o script faz
 
@@ -122,4 +121,4 @@ backup-web-python/
 
 ## Autor
 
-SEU NOME, estudante de Sistemas de Informação.
+Vinicius Oliveira, estudante de Sistemas de Informação.
